@@ -46,7 +46,7 @@ int main() {
     return 0;
 }
 */
-
+/*
 int main() {
     // int , long , long long , float , double
     // string and getline
@@ -69,6 +69,7 @@ int main() {
     getline(cin, str);
     cout << str << endl;
     return 0;
+    }
+    */
 
-}
 
