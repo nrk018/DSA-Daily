@@ -10,6 +10,11 @@
  1
  */
 
+
+// for the outer loop , write the number of lines
+// for the inner loop , focus on the columns & connect them somehow with rows
+// print them x inside the inner for loop
+// observe symmetry ( optional )
 #include<iostream>
 using namespace std;
 
